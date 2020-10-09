@@ -1,0 +1,10 @@
+#inlclude <iostream>
+
+int main()
+{
+  std::cout << "hello!! how are you doing" std::endl;
+  std::cout << "hope you are doing well" std::endl;
+  std::cout << "see ya later pal!!" std::endl;
+
+  return 0;
+}
